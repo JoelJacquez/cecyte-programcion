@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://joeljacquez.github.io/cecyte-programcion/sitemap.xml 
