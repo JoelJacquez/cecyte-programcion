@@ -3,8 +3,8 @@
 # ----------------------- #
 
 url: http://joeljacquez.github.io/cecyte-programcion
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
+title: Clase Progrmación 1 CECyTE
+subtitle: Impartida por Joel Jacquez
 author: Joel Jacquez
 simple_search: https://www.google.com/search
 description:
@@ -16,7 +16,7 @@ description:
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /cecyte-programcion/atom.xml
+subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
