@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Clase Progrmación 1 CECyTE]]></title>
   <link href="http://joeljacquez.github.io/cecyte-programcion/atom.xml" rel="self"/>
   <link href="http://joeljacquez.github.io/cecyte-programcion/"/>
-  <updated>2018-03-08T18:22:51-07:00</updated>
+  <updated>2018-03-09T14:33:07-07:00</updated>
   <id>http://joeljacquez.github.io/cecyte-programcion/</id>
   <author>
     <name><![CDATA[Joel Jacquez]]></name>
